@@ -1,0 +1,5 @@
+.thumbnail p,  {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

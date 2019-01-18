@@ -1,0 +1,14 @@
+/*Sets image sizes.*/
+.dimensions {
+	width:75px;
+	height:75px;
+}
+
+img {
+  border-radius: 8px;
+}
+
+.thumbnail .img {
+	width:75px;
+	height:75px;
+}

@@ -1,0 +1,13 @@
+<option value="Accent">Accent</option>
+<option value="Azera">Azera</option>
+<option value="Elantra">Elantra</option>
+<option value="Elantra GT">Elantra GT</option>
+<option value="Ioniq EV">Ioniq EV</option>
+<option value="Kona">Kona</option>
+<option value="Nexo">Nexo</option>
+<option value="Santa Fe">Santa Fe</option>
+<option value="Santa Fe Sport">Santa Fe Sport</option>
+<option value="Santa Fe XL">Santa Fe XL</option>
+<option value="Sonata">Sonata</option>
+<option value="Tucson">Tucson</option>
+<option value="Veloster">Veloster</option>

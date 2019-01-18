@@ -1,0 +1,8 @@
+<option value="Eclipse Cross">Eclipse Cross</option>
+<option valie="i-MiEV">i-MiEV</option>
+<option value="Lancer">Lancer</option>
+<option value="Mirage">Mirage</option>
+<option value="Mirage G4">Mirage G4</option>
+<option value="Outlander">Outlander</option>
+<option value="Outlander PHEV">Outlander PHEV</option>
+<option value="Outlander Sport">Outlander Sport</option>

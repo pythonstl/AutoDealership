@@ -1,0 +1,14 @@
+<option value="86">86</option>
+<option value="Avalon">Avalon</option>
+<option value="Camry">Camry</option>
+<option value="Corolla">Corolla</option>
+<option value="Corolla Hatchback">Corolla Hatchback</option>
+<option value="Corolla iM">Corolla iM</option>
+<option value="Mirai">Mirai</option>
+<option value="Prius">Prius</option>
+<option value="Prius C">Prius C</option>
+<option value="Prius Prime">Prius Prime</option>
+<option value="Prius V">Prius V</option>
+<option value="Yaris">Yaris</option>
+<option value="Yaris iA">Yaris iA</option>
+<option value="Yaris Sedan">Yaris Sedan</option>

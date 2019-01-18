@@ -1,0 +1,9 @@
+<option value="Ascent">Ascent</option>
+<option value="BRZ">BRZ</option>
+<option value="Crosstrek">Crosstrek</option>
+<option value="Forester">Forester</option>
+<option value="Impreza">Impreza</option>
+<option value="Legacy">Legacy</option>
+<option value="Outback">Outback</option>
+<option value="WRX">WRX</option>
+<option value="WRX STI">WRX STI</option>
